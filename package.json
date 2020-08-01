@@ -1,0 +1,26 @@
+{
+  "name": "myp5captruer",
+  "version": "1.0.0",
+  "description": "emmmmmmmmmmmm",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ah-Bo/myp5captruer.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Ah-Bo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ah-Bo/myp5captruer/issues"
+  },
+  "homepage": "https://github.com/Ah-Bo/myp5captruer#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
