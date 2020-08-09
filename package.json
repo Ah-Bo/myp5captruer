@@ -11,7 +11,8 @@
     "url": "git+https://github.com/Ah-Bo/myp5captruer.git"
   },
   "keywords": [
-    "node"
+    "node",
+    "p5.js"
   ],
   "author": "Ah-Bo",
   "license": "MIT",
