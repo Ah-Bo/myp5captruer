@@ -43,6 +43,6 @@ express.js
 
 `http://localhost:3000 + 你的主html路径`  
 
-你觉得差不多能停里就关掉浏览器  
+你觉得差不多了能停里就关掉浏览器  
 
 然后你就能在output目录里得到一个untitled.mp4，分享给他人吧
