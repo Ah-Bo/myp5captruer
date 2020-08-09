@@ -22,7 +22,7 @@ express.js
 
 ### Step 4  
 
-在shetch.js中  
+在sketch.js中  
 
 声明一个全局变量:  
 `let c = null`  
