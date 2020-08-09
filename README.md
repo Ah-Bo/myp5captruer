@@ -9,7 +9,7 @@ express.js
 
 ### Step 1  
 
-克隆本仓库，进入仓库目录
+克隆本仓库，进入仓库目录，安装依赖:  
 `npm/cnpm i`
 
 ### Step 2  
